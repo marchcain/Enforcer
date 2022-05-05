@@ -1,0 +1,11 @@
+{
+	"title"		:	"Enforcer - Built-in restrictions for contraption-based combat",
+	"type"		:	"tool",
+	"tags"		:	[ "build" ],
+	"ignore"	:
+	[
+		"*.gma",
+		"*.jpeg",
+		"*.bat"
+	]
+}
